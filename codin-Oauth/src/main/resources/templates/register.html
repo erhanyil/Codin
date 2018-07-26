@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Register</title>
+  <link rel="stylesheet" href="css/bootstrap.min.css" />
+  <link rel="stylesheet" href="css/styles.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body class="bg-dark">
+  <div class="container">
+    <div class="card card-register mx-auto mt-5">
+      <div class="card-header">Register</div>
+      <div class="card-body">
+        <#if !successMessage??>
+          <form method="POST" modelAttribute="registerForm" action="register" class="form-signin">
+            <div class="form-group">
+              <div class="form-row">
+                <div class="col-md-6">
+                  <label for="exampleInputName">First name</label>
+                  <input class="form-control" id="exampleInputName" type="text" name="firstName"
+                         aria-describedby="nameHelp" placeholder="Enter first name" required minlength="3"
+                         maxlength="50"
+                         value="${registerForm.firstName}">
+                  <#if firstNameError??>
+                    <label class="errorLabel">${firstNameError}</label>
+                  </#if>
+                </div>
+                <div class="col-md-6">
+                  <label for="exampleInputLastName">Last name</label>
+                  <input class="form-control" id="exampleInputLastName" type="text" name="lastName"
+                         aria-describedby="nameHelp" placeholder="Enter last name" required minlength="2" maxlength="50"
+                         value="${registerForm.lastName}">
+                  <#if lastNameError??>
+                    <label class="errorLabel">${lastNameError}</label>
+                  </#if>
+                </div>
+              </div>
+            </div>
+            <div class="form-group">
+              <label for="exampleInputEmail1">Email address</label>
+              <input class="form-control" id="exampleInputEmail1" type="email" name="emailAddress" required
+                     value="${registerForm.emailAddress}"
+                     aria-describedby="emailHelp" placeholder="Enter email">
+              <#if emailAddressError??>
+                <label class="errorLabel">${emailAddressError}</label>
+              </#if>
+            </div>
+            <div class="form-group">
+              <div class="form-row">
+                <div class="col-md-6">
+                  <label for="exampleInputPassword1">Password</label>
+                  <input class="form-control" id="exampleInputPassword1" type="password" name="password"
+                         placeholder="Password" required value="${registerForm.password}"
+                         onchange="form.passwordC.pattern = this.value;"
+                         pattern="(?=^.{8,}$)((?=.*\d)|(?=.*\W+))(?![.\n])(?=.*[A-Z])(?=.*[a-z]).*$">
+                  <#if passwordError??>
+                    <label class="errorLabel">${passwordError}</label>
+                  </#if>
+                </div>
+                <div class="col-md-6">
+                  <label for="exampleConfirmPassword">Confirm password</label>
+                  <input class="form-control" id="exampleConfirmPassword" type="password" name="passwordC"
+                         onchange="form.passwordC.value != this.value ? document.getElementById('exampleConfirmPassword').setCustomValidity('Passwords must match.') : ''"
+                         placeholder="Confirm password" required value="${registerForm.passwordC}">
+                  <#if passwordCError??>
+                    <label class="errorLabel">${passwordCError}</label>
+                  </#if>
+                </div>
+              </div>
+            </div>
+            <button class="btn btn-primary btn-block" type="submit">Register</button>
+          </form>
+          <#elseif successMessage??>
+            <div class="text-center mt-4 mb-5">
+              <h4>We just sent an email to you.</h4>
+              <p>We need to verify that this email address belongs to you.Check your email and follow the instructions
+                in the message we sent you</p>
+              <br>
+              <p>Did not get an email from us? Please send an email again </p>
+            </div>
+            <form method="POST" modelAttribute="registerForm" action="resend" class="form-signin">
+              <div class="form-group">
+                <input class="form-control" type="email" aria-describedby="emailHelp" placeholder="Enter email address"
+                       name="emailAddress" required>
+              </div>
+              <button class="btn btn-primary btn-block" type="submit">Send Email</button>
+            </form>
+        </#if>
+        <div class="text-center">
+          <a class="d-block small mt-3" href="login">Login Page</a>
+          <a class="d-block small" href="forgot-password">Forgot Password?</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

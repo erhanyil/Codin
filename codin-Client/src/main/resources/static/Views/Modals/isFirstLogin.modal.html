@@ -1,0 +1,13 @@
+<div class="modal-header">
+    <h3 class="modal-title">Welcome to CodIn</h3>
+</div>
+<div class="modal-body" ng-if="isLinkedInLogin">
+    If you want to use LinkedIn data please click Apply button
+</div>
+<div class="modal-body" ng-if="!isLinkedInLogin">
+    You are not log in with LinkedIn
+</div>
+<div class="modal-footer">
+    <button class="btn btn-success" ng-click="firstLoginProcess()" ng-if="isLinkedInLogin">Apply</button>
+    <button class="btn btn-primary" ng-click="Modal.close()">Close</button>
+</div>

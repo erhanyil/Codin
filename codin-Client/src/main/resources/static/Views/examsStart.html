@@ -1,0 +1,69 @@
+<div class="container" loading>
+    <div class="row">
+        <div class="col-sm-9" ng-repeat="x in tabs" ng-show="x.active">
+            <div class="panel panel-default">
+                <!-- Default panel contents -->
+                <div class="panel-heading active-panel-heading"><strong>Java Exam - Level #1<span class="badge"
+                                                                                                  style="float:right;background:#5bc0de">Question {{x.title}}</span></strong>
+                </div>
+                <div class="panel-body">
+                    <strong><h4>{{x.content}}</h4></strong>
+                </div>
+                <ul class="list-group">
+                    <li class="list-group-item item-0" ng-class="{currentAnswer: answer == true}">
+                        <input type="radio" name="answer" style="vertical-align: top;margin-right:5px"
+                               ng-model="answer0" ng-click="answer(0)">Cras justo odioCras justo odioCras justo odioCras
+                        justo odioCras justo odioCras justo odioCras justo odioCras justo odioCras justo odioCras justo
+                        odioCras justo odioCras justo odioCras justo odioCras justo odioCras justo odioCras justo
+                        odioCras justo odioCras justo odio
+                    </li>
+                    <li class="list-group-item item-1" ng-class="{currentAnswer: answer == true}">
+                        <input type="radio" name="answer" style="vertical-align: top;margin-right:5px"
+                               ng-model="answer1" ng-click="answer(1)">Dapibus ac facilisis in
+                    </li>
+                    <li class="list-group-item item-2" ng-class="{currentAnswer: answer == true}">
+                        <input type="radio" name="answer" style="vertical-align: top;margin-right:5px"
+                               ng-model="answer2" ng-click="answer(2)">Morbi leo risus
+                    </li>
+                    <li class="list-group-item item-3" ng-class="{currentAnswer: answer == true}">
+                        <input type="radio" name="answer" style="vertical-align: top;margin-right:5px"
+                               ng-model="answer3" ng-click="answer(3)">Porta ac consectetur ac
+                    </li>
+                    <li class="list-group-item item-4" ng-class="{currentAnswer: answer == true}">
+                        <input type="radio" name="answer" style="vertical-align: top;margin-right:5px"
+                               ng-model="answer4" ng-click="answer(4)">Vestibulum at eros
+                    </li>
+                </ul>
+                <div class="panel-body">
+                    <div style="text-align: center">
+                        <div>
+                            <button type="button" class="btn btn-default" style="float: left"
+                                    ng-click="">&laquo;</button>
+                            <button type="button" class="btn btn-warning" ng-click="">Mark for Review <i
+                                    class="glyphicon glyphicon-pushpin"></i></button>
+                            <button type="button" class="btn btn-default" style="float: right"
+                                    ng-click="">&raquo;</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-sm-3">
+            <div class="panel-group">
+                <div class="panel panel-default">
+                    <div class="panel-body">
+                        <h3 class="mobmid">Quantitive</h3>
+                        <div class="row">
+                            <div class="col-sm-3 col-xs-1" ng-repeat="x in tabs" ng-click="tabHandler(x)">
+                                <button type="button" class="btn btn-default btn-circle">{{x.title}}</button>
+                                <hr>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- /padding -->
+</div>

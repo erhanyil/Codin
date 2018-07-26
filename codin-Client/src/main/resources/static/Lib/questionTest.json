@@ -1,0 +1,640 @@
+{
+  "active": "true",
+  "title": "1",
+  "content": "The Spring Framework provides a comprehensive programming and configuration model for modern Java-based enterprise applications",
+  "choices": [
+    {
+      "id": "1",
+      "text": "Choice 1",
+      "isUserAnswer": "false"
+    },
+    {
+      "id": "2",
+      "text": "Choice 2",
+      "isUserAnswer": "false"
+    },
+    {
+      "id": "3",
+      "text": "Choice 3",
+      "isUserAnswer": "true"
+    },
+    {
+      "id": "4",
+      "text": "Choice 4",
+      "isUserAnswer": "false"
+    },
+    {
+      "id": "5",
+      "text": "Choice 5",
+      "isUserAnswer": "false"
+    }
+  ]
+},
+{
+"active": "true",
+"title": "2",
+"content": "The Hibernate Framework provides a comprehensive programming and configuration model for modern Java-based enterprise applications",
+"choices": [
+{
+"id": "1",
+"text": "Choice 1",
+"isUserAnswer": "false"
+},
+{
+"id": "2",
+"text": "Choice 2",
+"isUserAnswer": "false"
+},
+{
+"id": "3",
+"text": "Choice 3",
+"isUserAnswer": "true"
+},
+{
+"id": "4",
+"text": "Choice 4",
+"isUserAnswer": "false"
+},
+{
+"id": "5",
+"text": "Choice 5",
+"isUserAnswer": "false"
+}
+]
+},
+{
+"active": "true",
+"title": "3",
+"content": "The Java Framework provides a comprehensive programming and configuration model for modern Java-based enterprise applications",
+"choices": [
+{
+"id": "1",
+"text": "Choice 1",
+"isUserAnswer": "false"
+},
+{
+"id": "2",
+"text": "Choice 2",
+"isUserAnswer": "false"
+},
+{
+"id": "3",
+"text": "Choice 3",
+"isUserAnswer": "true"
+},
+{
+"id": "4",
+"text": "Choice 4",
+"isUserAnswer": "false"
+},
+{
+"id": "5",
+"text": "Choice 5",
+"isUserAnswer": "false"
+}
+]
+},
+{
+"active": "true",
+"title": "4",
+"content": "The C# Framework provides a comprehensive programming and configuration model for modern Java-based enterprise applications",
+"choices": [
+{
+"id": "1",
+"text": "Choice 1",
+"isUserAnswer": "false"
+},
+{
+"id": "2",
+"text": "Choice 2",
+"isUserAnswer": "false"
+},
+{
+"id": "3",
+"text": "Choice 3",
+"isUserAnswer": "true"
+},
+{
+"id": "4",
+"text": "Choice 4",
+"isUserAnswer": "false"
+},
+{
+"id": "5",
+"text": "Choice 5",
+"isUserAnswer": "false"
+}
+]
+},
+{
+"active": "true",
+"title": "5",
+"content": "The PHP Framework provides a comprehensive programming and configuration model for modern Java-based enterprise applications",
+"choices": [
+{
+"id": "1",
+"text": "Choice 1",
+"isUserAnswer": "false"
+},
+{
+"id": "2",
+"text": "Choice 2",
+"isUserAnswer": "false"
+},
+{
+"id": "3",
+"text": "Choice 3",
+"isUserAnswer": "true"
+},
+{
+"id": "4",
+"text": "Choice 4",
+"isUserAnswer": "false"
+},
+{
+"id": "5",
+"text": "Choice 5",
+"isUserAnswer": "false"
+}
+]
+},
+{
+"active": "true",
+"title": "6",
+"content": "The REACT Framework provides a comprehensive programming and configuration model for modern Java-based enterprise applications",
+"choices": [
+{
+"id": "1",
+"text": "Choice 1",
+"isUserAnswer": "false"
+},
+{
+"id": "2",
+"text": "Choice 2",
+"isUserAnswer": "false"
+},
+{
+"id": "3",
+"text": "Choice 3",
+"isUserAnswer": "true"
+},
+{
+"id": "4",
+"text": "Choice 4",
+"isUserAnswer": "false"
+},
+{
+"id": "5",
+"text": "Choice 5",
+"isUserAnswer": "false"
+}
+]
+},
+{
+"active": "true",
+"title": "7",
+"content": "The ANGULAR Framework provides a comprehensive programming and configuration model for modern Java-based enterprise applications",
+"choices": [
+{
+"id": "1",
+"text": "Choice 1",
+"isUserAnswer": "false"
+},
+{
+"id": "2",
+"text": "Choice 2",
+"isUserAnswer": "false"
+},
+{
+"id": "3",
+"text": "Choice 3",
+"isUserAnswer": "true"
+},
+{
+"id": "4",
+"text": "Choice 4",
+"isUserAnswer": "false"
+},
+{
+"id": "5",
+"text": "Choice 5",
+"isUserAnswer": "false"
+}
+]
+},
+{
+"active": "true",
+"title": "8",
+"content": "The VUEJS Framework provides a comprehensive programming and configuration model for modern Java-based enterprise applications",
+"choices": [
+{
+"id": "1",
+"text": "Choice 1",
+"isUserAnswer": "false"
+},
+{
+"id": "2",
+"text": "Choice 2",
+"isUserAnswer": "false"
+},
+{
+"id": "3",
+"text": "Choice 3",
+"isUserAnswer": "true"
+},
+{
+"id": "4",
+"text": "Choice 4",
+"isUserAnswer": "false"
+},
+{
+"id": "5",
+"text": "Choice 5",
+"isUserAnswer": "false"
+}
+]
+},
+{
+"active": "true",
+"title": "9",
+"content": "The EMBERJS Framework provides a comprehensive programming and configuration model for modern Java-based enterprise applications",
+"choices": [
+{
+"id": "1",
+"text": "Choice 1",
+"isUserAnswer": "false"
+},
+{
+"id": "2",
+"text": "Choice 2",
+"isUserAnswer": "false"
+},
+{
+"id": "3",
+"text": "Choice 3",
+"isUserAnswer": "true"
+},
+{
+"id": "4",
+"text": "Choice 4",
+"isUserAnswer": "false"
+},
+{
+"id": "5",
+"text": "Choice 5",
+"isUserAnswer": "false"
+}
+]
+},
+{
+"active": "true",
+"title": "10",
+"content": "The FACEBOOK Framework provides a comprehensive programming and configuration model for modern Java-based enterprise applications",
+"choices": [
+{
+"id": "1",
+"text": "Choice 1",
+"isUserAnswer": "false"
+},
+{
+"id": "2",
+"text": "Choice 2",
+"isUserAnswer": "false"
+},
+{
+"id": "3",
+"text": "Choice 3",
+"isUserAnswer": "true"
+},
+{
+"id": "4",
+"text": "Choice 4",
+"isUserAnswer": "false"
+},
+{
+"id": "5",
+"text": "Choice 5",
+"isUserAnswer": "false"
+}
+]
+},
+{
+"active": "true",
+"title": "11",
+"content": "The MICROSOFT Framework provides a comprehensive programming and configuration model for modern Java-based enterprise applications",
+"choices": [
+{
+"id": "1",
+"text": "Choice 1",
+"isUserAnswer": "false"
+},
+{
+"id": "2",
+"text": "Choice 2",
+"isUserAnswer": "false"
+},
+{
+"id": "3",
+"text": "Choice 3",
+"isUserAnswer": "true"
+},
+{
+"id": "4",
+"text": "Choice 4",
+"isUserAnswer": "false"
+},
+{
+"id": "5",
+"text": "Choice 5",
+"isUserAnswer": "false"
+}
+]
+},
+{
+"active": "true",
+"title": "12",
+"content": "The APPLE Framework provides a comprehensive programming and configuration model for modern Java-based enterprise applications",
+"choices": [
+{
+"id": "1",
+"text": "Choice 1",
+"isUserAnswer": "false"
+},
+{
+"id": "2",
+"text": "Choice 2",
+"isUserAnswer": "false"
+},
+{
+"id": "3",
+"text": "Choice 3",
+"isUserAnswer": "true"
+},
+{
+"id": "4",
+"text": "Choice 4",
+"isUserAnswer": "false"
+},
+{
+"id": "5",
+"text": "Choice 5",
+"isUserAnswer": "false"
+}
+]
+},
+{
+"active": "true",
+"title": "13",
+"content": "The JAVASCRIPT Framework provides a comprehensive programming and configuration model for modern Java-based enterprise applications",
+"choices": [
+{
+"id": "1",
+"text": "Choice 1",
+"isUserAnswer": "false"
+},
+{
+"id": "2",
+"text": "Choice 2",
+"isUserAnswer": "false"
+},
+{
+"id": "3",
+"text": "Choice 3",
+"isUserAnswer": "true"
+},
+{
+"id": "4",
+"text": "Choice 4",
+"isUserAnswer": "false"
+},
+{
+"id": "5",
+"text": "Choice 5",
+"isUserAnswer": "false"
+}
+]
+},
+{
+"active": "true",
+"title": "14",
+"content": "The GITHUB Framework provides a comprehensive programming and configuration model for modern Java-based enterprise applications",
+"choices": [
+{
+"id": "1",
+"text": "Choice 1",
+"isUserAnswer": "false"
+},
+{
+"id": "2",
+"text": "Choice 2",
+"isUserAnswer": "false"
+},
+{
+"id": "3",
+"text": "Choice 3",
+"isUserAnswer": "true"
+},
+{
+"id": "4",
+"text": "Choice 4",
+"isUserAnswer": "false"
+},
+{
+"id": "5",
+"text": "Choice 5",
+"isUserAnswer": "false"
+}
+]
+},
+{
+"active": "true",
+"title": "15",
+"content": "The MSSSQL Framework provides a comprehensive programming and configuration model for modern Java-based enterprise applications",
+"choices": [
+{
+"id": "1",
+"text": "Choice 1",
+"isUserAnswer": "false"
+},
+{
+"id": "2",
+"text": "Choice 2",
+"isUserAnswer": "false"
+},
+{
+"id": "3",
+"text": "Choice 3",
+"isUserAnswer": "true"
+},
+{
+"id": "4",
+"text": "Choice 4",
+"isUserAnswer": "false"
+},
+{
+"id": "5",
+"text": "Choice 5",
+"isUserAnswer": "false"
+}
+]
+},
+{
+"active": "true",
+"title": "16",
+"content": "The Spring Framework provides a comprehensive programming and configuration model for modern Java-based enterprise applications",
+"choices": [
+{
+"id": "1",
+"text": "Choice 1",
+"isUserAnswer": "false"
+},
+{
+"id": "2",
+"text": "Choice 2",
+"isUserAnswer": "false"
+},
+{
+"id": "3",
+"text": "Choice 3",
+"isUserAnswer": "true"
+},
+{
+"id": "4",
+"text": "Choice 4",
+"isUserAnswer": "false"
+},
+{
+"id": "5",
+"text": "Choice 5",
+"isUserAnswer": "false"
+}
+]
+},
+{
+"active": "true",
+"title": "17",
+"content": "The Spring Framework provides a comprehensive programming and configuration model for modern Java-based enterprise applications",
+"choices": [
+{
+"id": "1",
+"text": "Choice 1",
+"isUserAnswer": "false"
+},
+{
+"id": "2",
+"text": "Choice 2",
+"isUserAnswer": "false"
+},
+{
+"id": "3",
+"text": "Choice 3",
+"isUserAnswer": "true"
+},
+{
+"id": "4",
+"text": "Choice 4",
+"isUserAnswer": "false"
+},
+{
+"id": "5",
+"text": "Choice 5",
+"isUserAnswer": "false"
+}
+]
+},
+{
+"active": "true",
+"title": "18",
+"content": "The Spring Framework provides a comprehensive programming and configuration model for modern Java-based enterprise applications",
+"choices": [
+{
+"id": "1",
+"text": "Choice 1",
+"isUserAnswer": "false"
+},
+{
+"id": "2",
+"text": "Choice 2",
+"isUserAnswer": "false"
+},
+{
+"id": "3",
+"text": "Choice 3",
+"isUserAnswer": "true"
+},
+{
+"id": "4",
+"text": "Choice 4",
+"isUserAnswer": "false"
+},
+{
+"id": "5",
+"text": "Choice 5",
+"isUserAnswer": "false"
+}
+]
+},
+{
+"active": "true",
+"title": "19",
+"content": "The Spring Framework provides a comprehensive programming and configuration model for modern Java-based enterprise applications",
+"choices": [
+{
+"id": "1",
+"text": "Choice 1",
+"isUserAnswer": "false"
+},
+{
+"id": "2",
+"text": "Choice 2",
+"isUserAnswer": "false"
+},
+{
+"id": "3",
+"text": "Choice 3",
+"isUserAnswer": "true"
+},
+{
+"id": "4",
+"text": "Choice 4",
+"isUserAnswer": "false"
+},
+{
+"id": "5",
+"text": "Choice 5",
+"isUserAnswer": "false"
+}
+]
+},
+{
+"active": "true",
+"title": "20",
+"content": "The Spring Framework provides a comprehensive programming and configuration model for modern Java-based enterprise applications",
+"choices": [
+{
+"id": "1",
+"text": "Choice 1",
+"isUserAnswer": "false"
+},
+{
+"id": "2",
+"text": "Choice 2",
+"isUserAnswer": "false"
+},
+{
+"id": "3",
+"text": "Choice 3",
+"isUserAnswer": "true"
+},
+{
+"id": "4",
+"text": "Choice 4",
+"isUserAnswer": "false"
+},
+{
+"id": "5",
+"text": "Choice 5",
+"isUserAnswer": "false"
+}
+]
+}

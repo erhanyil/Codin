@@ -1,0 +1,47 @@
+server:
+  port: 8003
+  context-path: /auth
+
+spring:
+  datasource:
+    url: jdbc:mysql://94.101.95.50:3306/db029691_5?autoReconnect=true
+    username: user029691_5
+    password: Code-Jobs12345
+    driverClassName: com.mysql.jdbc.Driver
+    defaultSchema:
+    maxPoolSize: 100
+    testOnBorrow: true
+    validationQuery: SELECT 1
+    hibernate:
+      hbm2ddl.method: update
+      show_sql: true
+      format_sql: true
+      dialect: org.hibernate.dialect.MySQLDialect
+      naming-strategy: org.hibernate.cfg.EJB3NamingStrategy
+  queries:
+    usersQuery: SELECT email, password, isActive FROM users WHERE email = ?
+    rolesQuery: SELECT email, CASE WHEN roleID = 1 THEN 'ADMIN' WHEN roleID = 2 THEN 'USER' WHEN roleID = 3 THEN 'CUSTOMER' ELSE 'ADMIN' END as role_name FROM users WHERE email = ?
+    userRoleQuery: SELECT CASE WHEN roleID = 1 THEN 'ADMIN' WHEN roleID = 2 THEN 'USER' WHEN roleID = 3 THEN 'CUSTOMER' ELSE 'ADMIN' END as role FROM users WHERE email = !
+  jpa:
+    hibernate:
+      naming-strategy: org.hibernate.cfg.EJB3NamingStrategy
+  freemarker:
+    suffix: .html
+    cache: false
+    template_update_delay: 0
+  mail:
+    host: smtp.gmail.com
+    port: 465 # SMTP server port
+    username: sadecetestadresi@gmail.com # Login used for authentication
+    password: sadecetestadresi!2!2 # Password for the given login
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+          ssl:
+            enable: true
+logging:
+  level:
+    org.springframework.security: INFO     

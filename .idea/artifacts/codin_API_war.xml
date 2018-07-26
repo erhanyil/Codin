@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="codin-API:war">
+    <output-path>$PROJECT_DIR$/codin-API/target</output-path>
+    <root id="archive" name="codin-API.war">
+      <element id="artifact" artifact-name="codin-API:war exploded" />
+    </root>
+  </artifact>
+</component>

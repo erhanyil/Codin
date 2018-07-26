@@ -1,0 +1,32 @@
+security:
+  user:
+    password: none
+zuul:
+  routes:
+    resource:
+      path: /services/**
+      url: http://localhost:8002/services
+    user:
+      path: /user/**
+      url: http://localhost:8003/auth/user
+spring:
+  oauth2:
+    sso:
+      home:
+        secure: false
+        path: /,/**/*.html
+    client:
+      accessTokenUri: http://localhost:8003/auth/oauth/token
+      userAuthorizationUri: http://localhost:8003/auth/oauth/authorize
+      clientId: amoraesdev.spa-example
+      clientSecret: s3cr3t
+    resource:
+      userInfoUri: http://localhost:8003/auth/user
+server:
+  port: 8001
+  context-path:
+
+logging:
+  level:
+    org.springframework.security: DEBUG     
+debug: true      

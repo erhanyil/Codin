@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="angular-spring-example-auth" />
+        <module name="angular-spring-example-services" />
+        <module name="angular-spring-example-ui" />
+        <module name="codin-API" />
+        <module name="codin-Client" />
+        <module name="codin-Oauth" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="angular-spring-example-auth" target="1.8" />
+      <module name="angular-spring-example-parent" target="1.5" />
+      <module name="angular-spring-example-services" target="1.8" />
+      <module name="angular-spring-example-ui" target="1.8" />
+      <module name="codin" target="1.5" />
+      <module name="codin-API" target="1.5" />
+      <module name="codin-Client" target="1.8" />
+      <module name="codin-Oauth" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

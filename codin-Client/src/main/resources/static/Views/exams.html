@@ -1,0 +1,26 @@
+<div class="col-sm-12" loading>
+    <div class="row">
+        <div class="col-md-4">
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <h3 class="mobmid">Languages</h3>
+                    <ul class="exams-nav">
+                        <li><a ng-click="show('Java')"><i class="devicon-java-plain colored"></i>Java</a></li>
+                        <li><a ng-click="show('AngularJS')"><i class="devicon-angularjs-plain colored"></i>AngularJS</a>
+                        </li>
+                        <li><a ng-click="show('Java')"><i class="devicon-php-plain colored"></i>PHP</a></li>
+                        <li><a ng-click="show('Java')"><i class="devicon-python-plain colored"></i>Python</a></li>
+                        <li><a ng-click="show('Java')"><i class="devicon-html5-plain colored"></i>HTML</a></li>
+                        <li><a ng-click="show('Java')"><i class="devicon-css3-plain colored"></i>CSS</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-8">
+            <div class="panel panel-default">
+                <div class="panel-body" ng-include="examsContent"></div>
+            </div>
+        </div>
+    </div>
+    <!-- /padding -->
+</div>

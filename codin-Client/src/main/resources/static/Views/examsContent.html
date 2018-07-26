@@ -1,0 +1,62 @@
+<div id="accordion" role="tablist">
+    <fieldset class="card examsCard">
+        <div class="card-header">
+            <h5 class="mb-0">
+                <a class="examsHeader" ng-click="collapsed1=!collapsed1">
+                    Exam #1
+                </a>
+            </h5>
+        </div>
+        <div class="collapse show" ng-show="collapsed1">
+            <div class="card-body examsContent">
+                <h4>Last Score:</h4>
+                <h4>Duration:</h4>
+                <h4>Date:</h4>
+                <h4 class="examsDetails"><a ui-sref="app.examsDetails">Details</a></h4>
+                <button type="button" class="btn btn-success btn-lg btn-block examsStart" ng-click="examsStart()">Start
+                    Exam
+                </button>
+            </div>
+        </div>
+    </fieldset>
+    <fieldset class="card examsCard">
+        <div class="card-header">
+            <h5 class="mb-0">
+                <a class="examsHeader" ng-click="collapsed2=!collapsed2">
+                    Exam #2
+                </a>
+            </h5>
+        </div>
+        <div class="collapse show" ng-show="collapsed2">
+            <div class="card-body examsContent">
+                <h4>Last Score:</h4>
+                <h4>Duration:</h4>
+                <h4>Date:</h4>
+                <h4 class="examsDetails"><a ui-sref="app.examsDetails">Details</a></h4>
+                <button type="button" class="btn btn-success btn-lg btn-block examsStart" ui-sref="app.examsStart">Start
+                    Exam
+                </button>
+            </div>
+        </div>
+    </fieldset>
+    <fieldset class="card examsCard">
+        <div class="card-header">
+            <h5 class="mb-0">
+                <a class="examsHeader" ng-click="collapsed3=!collapsed3">
+                    Exam #3
+                </a>
+            </h5>
+        </div>
+        <div class="collapse show" ng-show="collapsed3">
+            <div class="card-body examsContent">
+                <h4>Last Score:</h4>
+                <h4>Duration:</h4>
+                <h4>Date:</h4>
+                <h4 class="examsDetails"><a ui-sref="app.examsDetails">Details</a></h4>
+                <button type="button" class="btn btn-success btn-lg btn-block examsStart" ui-sref="app.examsStart">Start
+                    Exam
+                </button>
+            </div>
+        </div>
+    </fieldset>
+</div>

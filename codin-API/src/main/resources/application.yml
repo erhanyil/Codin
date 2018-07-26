@@ -1,0 +1,32 @@
+server:
+  port: 8002
+  context-path: /services
+  address: 127.0.0.1
+  
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/dbName?autoReconnect=true
+    username: userName
+    password: password
+    driverClassName: com.mysql.jdbc.Driver
+    defaultSchema:
+    maxPoolSize: 100
+    testOnBorrow: true
+    validationQuery: SELECT 1
+    hibernate:
+      hbm2ddl.method: update
+      show_sql: true
+      format_sql: true
+      dialect: org.hibernate.dialect.MySQLDialect
+      naming-strategy: org.hibernate.cfg.EJB3NamingStrategy
+  oauth2:
+    resource:
+      userInfoUri: http://localhost:8003/auth/user
+  jpa:
+    hibernate:
+      naming-strategy: org.hibernate.cfg.EJB3NamingStrategy
+      
+logging:
+  level:
+    org.springframework.security: DEBUG     
+debug: true         

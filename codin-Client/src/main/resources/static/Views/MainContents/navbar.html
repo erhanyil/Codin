@@ -1,0 +1,47 @@
+<nav class="navbar navbar-default" role="navigation" ng-controller="navController">
+    <div class="container-fluid">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse"
+                    data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand wobble-horizontal visible-xs logo-1" ui-sref="app.home">Codin</a>
+        </div>
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav" ng-if="!examsStartStatus">
+                <li class="pull-left hidden-xs"><a class="logo"
+                                                   ng-click='Alert.success("Do not forget to enter the exams, it is waiting for you.","app.exams");'>Codin</a>
+                </li>
+                <li ui-sref-active="active" ng-if="Auth.userHasPermission(['USER'])"><a ui-sref="app.home">Home</a></li>
+                <li ui-sref-active="active" ng-if="Auth.userHasPermission(['USER'])"><a
+                        ui-sref="app.profile">Profile</a></li>
+                <li ui-sref-active="active" ng-if="Auth.userHasPermission(['USER'])"><a ui-sref="app.exams">Exams</a>
+                </li>
+                <li ui-sref-active="active" ng-if="Auth.userHasPermission(['USER'])"><a
+                        ui-sref="app.discover">Discover</a></li>
+                <li ui-sref-active="active" ng-if="Auth.userHasPermission(['USER'])"><a ui-sref="app.messaging">Messaging</a>
+                </li>
+                <li ui-sref-active="active" ng-if="Auth.userHasPermission(['USER'])"><a ui-sref="app.notifications">Notifications</a>
+                </li>
+                <li ui-sref-active="active" ng-if="Auth.userHasPermission(['ADMIN'])"><a ui-sref="app.dashboard">Dashboard</a>
+                </li>
+                <li ui-sref-active="active"
+                    ng-if="Auth.userHasPermission(['ADMIN']) || Auth.userHasPermission(['USER'])"><a
+                        ui-sref="app.settings">Settings</a></li>
+                <li class="social pull-right"><a ng-click="logout()">Logout</a></li>
+            </ul>
+            <ul class="nav navbar-nav" ng-if="examsStartStatus">
+                <li class="pull-left hidden-xs"><a class="logo"
+                                                   ng-click='Alert.success("Do not forget to enter the exams, it is waiting for you.","app.exams");'>Codin</a>
+                </li>
+                <li class="social pull-right"><h4 class="navbar-text" style="color: white">20:00</h4></li>
+                <li class="social pull-right"><a ng-click="logout(examsStartStatus)">Logout</a></li>
+            </ul>
+        </div>
+    </div>
+</nav>

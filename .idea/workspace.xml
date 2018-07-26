@@ -1,0 +1,2259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="57d3070c-e2c0-4b0d-bec6-40c68ec12309" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="$PROJECT_DIR$/auth/target/" />
+    <ignored path="$PROJECT_DIR$/ui/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/services/target/" />
+    <ignored path="$PROJECT_DIR$/codin-Oauth/target/" />
+    <ignored path="$PROJECT_DIR$/codin-Client/target/" />
+    <ignored path="$PROJECT_DIR$/codin-API/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/codin$Oauth.coverage" NAME="Oauth Coverage Results" MODIFIED="1510051635818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="codin" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="exams.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/codin-Client/src/main/resources/static/Views/exams.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="22" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/codin-Client/src/main/resources/static/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="108" lean-forward="false" selection-start-line="2" selection-start-column="108" selection-end-line="2" selection-end-column="108" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="examsController.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/codin-Client/src/main/resources/static/Controllers/examsController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="2" column="54" lean-forward="false" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="54" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="examsStart.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/codin-Client/src/main/resources/static/Views/examsStart.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="21" column="50" lean-forward="true" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/codin-Client/src/main/resources/static/Lib/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="337">
+              <caret line="530" column="7" lean-forward="false" selection-start-line="530" selection-start-column="7" selection-end-line="530" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="profile.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/codin-Client/src/main/resources/static/Views/profile.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-179">
+              <caret line="16" column="77" lean-forward="false" selection-start-line="16" selection-start-column="77" selection-end-line="16" selection-end-column="77" />
+              <folding>
+                <marker date="1511461981000" expanded="true" signature="918:1236" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="970:1068" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="1164:1217" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="1326:1335" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="1397:13337" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="1496:4036" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="1529:4023" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="1563:1974" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="1580:1957" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="1638:1939" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="1730:1886" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="2010:2931" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="2063:2190" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="2225:2504" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="2539:2914" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="2618:2895" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="2684:2842" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="2982:3993" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="3035:3247" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="3190:3228" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="3282:3566" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="3601:3976" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="3680:3957" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="3746:3904" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="4137:5516" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="4170:5503" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="4204:4588" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="4221:4571" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="4278:4553" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="4344:4500" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="4624:5473" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="4677:4842" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="4785:4823" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="4877:5046" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="5081:5456" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="5160:5437" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="5226:5384" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="5613:7143" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="5646:7130" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="5680:6085" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="5697:6068" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="5775:6050" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="5841:5997" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="6113:7100" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="6149:7083" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="6186:6302" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="6207:6281" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="6213:6276" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="6339:6453" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="6360:6432" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="6490:6605" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="6511:6584" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="6517:6579" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="6642:6759" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="6663:6738" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="6669:6733" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="6796:6912" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="6817:6891" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="6823:6886" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="6949:7064" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="6970:7043" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="6976:7038" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="7246:10451" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="7279:10438" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="7313:7703" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="7330:7686" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="7393:7668" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="7459:7615" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="7731:8369" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="7777:7819" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="7855:7945" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="7980:8352" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="8059:8333" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="8125:8280" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="8412:9059" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="8458:8500" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="8536:8635" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="8670:9042" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="8749:9023" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="8815:8970" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="9102:9752" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="9148:9190" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="9226:9328" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="9363:9735" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="9442:9716" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="9508:9663" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="9795:10423" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="9841:9883" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="9919:9999" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="10034:10406" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="10113:10387" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="10179:10334" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="10524:13308" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="10564:12829" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="10597:12816" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="10701:10984" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="10780:10967" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="10879:10889" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="10896:10961" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="11071:11321" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="11147:11304" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="11246:11256" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="11402:11685" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="11481:11668" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="11580:11590" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="11597:11662" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="11768:12049" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="11846:12032" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="11945:11955" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="11962:12026" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="12131:12412" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="12209:12395" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="12308:12318" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="12325:12389" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="12493:12774" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="12571:12757" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="12670:12680" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="12687:12751" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="12869:13286" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="12902:13273" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="13005:13258" ph="..." />
+                <marker date="1511461981000" expanded="true" signature="13109:13241" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/codin-Client/src/main/resources/static/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="32" column="98" lean-forward="false" selection-start-line="32" selection-start-column="98" selection-end-line="32" selection-end-column="98" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>embed</find>
+      <find>test</find>
+      <find>freemarker</find>
+      <find>Logout Sucessfull w</find>
+      <find>Login</find>
+      <find>pass</find>
+      <find>get</find>
+      <find>user</find>
+      <find>oauth</find>
+      <find>starter</find>
+      <find>ResourceServerProperties</find>
+      <find>-cloud-security</find>
+      <find>cookie</find>
+      <find>erhan_yi</find>
+      <find>request</find>
+      <find>oauth2ClientFilterRegistration</find>
+      <find>findUserByEmail</find>
+      <find>closeSession</find>
+      <find>body</find>
+      <find>blurAll</find>
+      <find>Company</find>
+      <find>CustomAuthenticationProvider</find>
+      <find>linkedInProfile</find>
+      <find>positions</find>
+      <find>Country</find>
+      <find>checkCredentail</find>
+      <find>isFristLogin</find>
+      <find>boots</find>
+      <find>exams</find>
+      <find>&quot;true&quot;</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>user</replace>
+      <replace>company</replace>
+      <replace>checkCredential</replace>
+      <replace>isFirstLogin</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/codin-API/src/main/java/com/codin/Api/Repository/Users2Repository.java" />
+        <option value="$PROJECT_DIR$/codin-API/src/main/java/com/codin/Api/Repository/ProfilesRepository.java" />
+        <option value="$PROJECT_DIR$/codin-API/src/main/java/com/codin/Api/Controllers/ProfilesController.java" />
+        <option value="$PROJECT_DIR$/codin-Client/src/main/java/com/codin/Client/spaexample/ui/Controllers/MappingController.java" />
+        <option value="$PROJECT_DIR$/codin-Oauth/src/main/java/com/codin/Oauth/Controllers/RegisterController.java" />
+        <option value="$PROJECT_DIR$/codin-Oauth/src/main/java/com/codin/Oauth/Controllers/ForgotController.java" />
+        <option value="$PROJECT_DIR$/codin-Client/src/main/java/com/codin/Client/spaexample/ui/Web/SecurityConfiguration.java" />
+        <option value="$PROJECT_DIR$/codin-Client/src/main/java/com/codin/Client/spaexample/ui/Handlers.java" />
+        <option value="$PROJECT_DIR$/codin-Client/src/main/java/com/codin/Client/spaexample/ui/Handler/CustomLogoutSuccessHandler.java" />
+        <option value="$PROJECT_DIR$/codin-Client/src/main/java/com/codin/Client/Handler/CustomLogoutSuccessHandler.java" />
+        <option value="$PROJECT_DIR$/codin-Oauth/src/main/java/com/codin/Oauth/Controllers/VerifyController.java" />
+        <option value="$PROJECT_DIR$/codin-Oauth/src/main/java/com/codin/Oauth/Controllers/ResetController.java" />
+        <option value="$PROJECT_DIR$/codin-Oauth/src/main/java/com/codin/Oauth/Library/DatabaseLibrary.java" />
+        <option value="$PROJECT_DIR$/codin-API/src/main/java/com/codin/Api/Library/DatabaseLibrary.java" />
+        <option value="$PROJECT_DIR$/codin-Oauth/src/main/java/com/codin/Oauth/Repository/ProfilesRepository.java" />
+        <option value="$PROJECT_DIR$/codin-Oauth/src/main/java/com/codin/Oauth/Handler/SimpleAuthenticationSuccessHandler.java" />
+        <option value="$PROJECT_DIR$/codin-Oauth/src/main/java/com/codin/Oauth/Handler/AuthenticationSuccessHandler.java" />
+        <option value="$PROJECT_DIR$/codin-Oauth/src/main/java/com/codin/Oauth/Handler/LogoutSuccessHandler.java" />
+        <option value="$PROJECT_DIR$/codin-Oauth/src/main/java/com/codin/Oauth/Handler/AuthenticationLogoutSuccessHandler.java" />
+        <option value="$PROJECT_DIR$/codin-Oauth/src/main/java/com/codin/Oauth/Oauth/SecurityConfiguration.java" />
+        <option value="$PROJECT_DIR$/codin-Oauth/src/main/java/com/codin/Oauth/Controllers/AccountProcessController.java" />
+        <option value="$PROJECT_DIR$/codin-Oauth/src/main/java/com/codin/Oauth/Controllers/LinkedInController.java" />
+        <option value="$PROJECT_DIR$/codin-Oauth/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/codin-API/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/codin-Oauth/src/main/java/com/codin/Oauth/Controllers/UserController.java" />
+        <option value="$PROJECT_DIR$/codin-Oauth/src/main/java/com/codin/Oauth/Library/CoreLibrary.java" />
+        <option value="$PROJECT_DIR$/codin-Oauth/src/main/java/com/codin/Oauth/Models/Logs.java" />
+        <option value="$PROJECT_DIR$/codin-Oauth/src/main/java/com/codin/Oauth/Repository/LogsRepository.java" />
+        <option value="$PROJECT_DIR$/codin-Oauth/src/main/java/com/codin/Oauth/Models/LinkedInProfile.java" />
+        <option value="$PROJECT_DIR$/codin-API/src/main/java/com/codin/Api/Models/Country.java" />
+        <option value="$PROJECT_DIR$/codin-API/src/main/java/com/codin/Api/Models/LinkedInProfile.java" />
+        <option value="$PROJECT_DIR$/codin-API/src/main/java/com/codin/Api/Controllers/UsersController.java" />
+        <option value="$PROJECT_DIR$/codin-Oauth/src/main/java/com/codin/Oauth/Repository/UsersRepository.java" />
+        <option value="$PROJECT_DIR$/codin-Oauth/src/main/java/com/codin/Oauth/CustomAuthenticationProvider.java" />
+        <option value="$PROJECT_DIR$/codin-Oauth/src/main/java/com/codin/Oauth/Handler/AuthenticationLoginSuccessHandler.java" />
+        <option value="$PROJECT_DIR$/codin-Client/src/main/resources/static/Controllers/mainController.js" />
+        <option value="$PROJECT_DIR$/codin-API/src/main/java/com/codin/Api/Repository/UsersRepository.java" />
+        <option value="$PROJECT_DIR$/codin-Client/src/main/resources/static/Services/APIService.js" />
+        <option value="$PROJECT_DIR$/codin-Client/src/main/resources/static/Controllers/profileController.js" />
+        <option value="$PROJECT_DIR$/codin-Client/src/main/resources/static/Views/Modals/isFirstLogin.html" />
+        <option value="$PROJECT_DIR$/codin-Oauth/src/main/resources/templates/login.html" />
+        <option value="$PROJECT_DIR$/codin-Oauth/src/main/resources/static/css/styles.css" />
+        <option value="$PROJECT_DIR$/codin-Client/src/main/resources/static/Views/examsContent.html" />
+        <option value="$PROJECT_DIR$/codin-Client/src/main/resources/static/Views/Modals/examsAnswers.html" />
+        <option value="$PROJECT_DIR$/codin-Client/src/main/resources/static/Lib/questionTest.json" />
+        <option value="$PROJECT_DIR$/codin-Client/src/main/resources/static/Views/profile.html" />
+        <option value="$PROJECT_DIR$/codin-Client/src/main/resources/static/Controllers/examsController.js" />
+        <option value="$PROJECT_DIR$/codin-Client/src/main/resources/static/App.js" />
+        <option value="$PROJECT_DIR$/codin-Client/src/main/resources/static/index.html" />
+        <option value="$PROJECT_DIR$/codin-Client/src/main/resources/static/Lib/style.css" />
+        <option value="$PROJECT_DIR$/codin-Client/src/main/resources/static/Views/examsStart.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="codin-Oauth" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Dependencies" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependenciesNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="codin-Oauth" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="codin-Oauth" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Lifecycle" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="codin-Client" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="codin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codin" type="462c0819:PsiDirectoryNode" />
+              <item name="codin-Client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codin" type="462c0819:PsiDirectoryNode" />
+              <item name="codin-Client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codin" type="462c0819:PsiDirectoryNode" />
+              <item name="codin-Client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codin" type="462c0819:PsiDirectoryNode" />
+              <item name="codin-Client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codin" type="462c0819:PsiDirectoryNode" />
+              <item name="codin-Client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codin" type="462c0819:PsiDirectoryNode" />
+              <item name="codin-Client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codin" type="462c0819:PsiDirectoryNode" />
+              <item name="codin-Client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codin" type="462c0819:PsiDirectoryNode" />
+              <item name="codin-Client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="Views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codin" type="462c0819:PsiDirectoryNode" />
+              <item name="codin-Client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="Views" type="462c0819:PsiDirectoryNode" />
+              <item name="Modals" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files (x86)/nodejs/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files (x86)\nodejs\node.exe" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hp\Desktop\codin\codin-Oauth\src\main\resources\static\Views" />
+      <recent name="C:\Users\hp\Desktop\codIn\trunk\codin-Client\src\main\resources\static\Lib\vendor\bootstrap\css" />
+      <recent name="C:\Users\hp\Desktop\codIn\trunk\codin-Client\src\main\resources\static\Lib\vendor" />
+      <recent name="C:\Users\hp\Downloads\angular-spring-example-master\angular-spring-example-master\codin-Client\src\main\resources\static" />
+      <recent name="C:\Users\hp\Downloads\angular-spring-example-master\angular-spring-example-master\codin-Oauth\src\main\resources\static\css" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.codin.Client" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.codin.Oauth.Repository" />
+      <recent name="com.codin.Api.Repository" />
+      <recent name="com.codin.Client.spaexample.ui.Responses" />
+      <recent name="com.codin.Oauth.Responses" />
+      <recent name="com.codin.Oauth.Controllers" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/codin-Client/src/main/resources/static/Views" />
+      <recent name="C:\Users\erhan.KOZA\myProject\codin\codin-Oauth\src\main\resources\static\img" />
+      <recent name="C:\Users\erhan.KOZA\myProject\codin\codin-Oauth\src\main\resources\static\css" />
+      <recent name="C:\Users\hp\Desktop\codin\codin-API\src\main\java\com\codin\Api\Models" />
+      <recent name="C:\Users\erhan.KOZA\myProject\codin\codin-API\src\main\java\com\codin\Api\Models" />
+    </key>
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/codin-API/src/main/java/com/codin/Api/Controllers/UsersController.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/codin-API/src/main/java/com/codin/Api/Library/DatabaseLibrary.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/codin-API/src/main/java/com/codin/Api/Repository/ExamsRepository.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/codin-API/src/main/java/com/codin/Api/Repository/ProfilesRepository.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/codin-API/src/main/java/com/codin/Api/Repository/UsersRepository.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/codin-API/src/main/java/com/codin/Api/Responses/ReturnResponse.java</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Client">
+    <configuration name="API" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.codin.Api.ApiApplication" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <module name="codin-API" />
+      <envs />
+    </configuration>
+    <configuration name="Client" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.codin.Client.ClientApplication" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <module name="codin-Client" />
+      <envs />
+    </configuration>
+    <configuration name="Oauth" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.codin.Oauth.OauthApplication" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <module name="codin-Oauth" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="angular-spring-example-auth" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.amoraesdev.auth.AuthApplication" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <module name="angular-spring-example-auth" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTraceType" factoryName="Spy-js" node="project" config="" has-config="false" system-proxy="true" proxy-port="3546" open-browser="false" browser="">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Spring Boot.API" />
+      <item index="1" class="java.lang.String" itemvalue="Spring Boot.Oauth" />
+      <item index="2" class="java.lang.String" itemvalue="Spring Boot.Client" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57d3070c-e2c0-4b0d-bec6-40c68ec12309" name="Default" comment="" />
+      <created>1508445608037</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1508445608037</updated>
+      <workItem from="1508445609479" duration="15067000" />
+      <workItem from="1508540473038" duration="17274000" />
+      <workItem from="1508681809912" duration="27733000" />
+      <workItem from="1508780545561" duration="5363000" />
+      <workItem from="1508789588950" duration="10849000" />
+      <workItem from="1508800496267" duration="197000" />
+      <workItem from="1508882597031" duration="4445000" />
+      <workItem from="1508921890215" duration="1514000" />
+      <workItem from="1508923690068" duration="260000" />
+      <workItem from="1508926454048" duration="2017000" />
+      <workItem from="1508928607957" duration="2412000" />
+      <workItem from="1508932280516" duration="3182000" />
+      <workItem from="1508936467798" duration="46000" />
+      <workItem from="1508969153612" duration="954000" />
+      <workItem from="1509037048189" duration="40009000" />
+      <workItem from="1509184784739" duration="62438000" />
+      <workItem from="1509360820015" duration="3692000" />
+      <workItem from="1509365143200" duration="1208000" />
+      <workItem from="1509368192830" duration="3000" />
+      <workItem from="1509368204555" duration="2804000" />
+      <workItem from="1509384209230" duration="1625000" />
+      <workItem from="1509386576174" duration="8706000" />
+      <workItem from="1509458407024" duration="1935000" />
+      <workItem from="1509460649758" duration="59000" />
+      <workItem from="1509473480974" duration="12452000" />
+      <workItem from="1509690966365" duration="6835000" />
+      <workItem from="1509742888998" duration="15625000" />
+      <workItem from="1509884528291" duration="11791000" />
+      <workItem from="1509979596859" duration="67000" />
+      <workItem from="1510051541447" duration="331000" />
+      <workItem from="1510052192596" duration="1504000" />
+      <workItem from="1510054529685" duration="3230000" />
+      <workItem from="1510060478797" duration="4658000" />
+      <workItem from="1510131264879" duration="6993000" />
+      <workItem from="1510140569770" duration="8856000" />
+      <workItem from="1510162655365" duration="9864000" />
+      <workItem from="1510258394194" duration="6911000" />
+      <workItem from="1510268534863" duration="2012000" />
+      <workItem from="1510270868977" duration="37334000" />
+      <workItem from="1510569415555" duration="4377000" />
+      <workItem from="1510684867825" duration="12630000" />
+      <workItem from="1510850479096" duration="8005000" />
+      <workItem from="1510903919547" duration="3080000" />
+      <workItem from="1510907460941" duration="1182000" />
+      <workItem from="1510913032210" duration="2591000" />
+    </task>
+    <task id="LOCAL-00001" summary="Fixed issues">
+      <created>1509056167056</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1509056167056</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Fixed issues">
+      <created>1509132786723</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1509132786723</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Fixed issues">
+      <created>1509147554826</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1509147554826</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Fixed issues">
+      <created>1509364501162</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1509364501162</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Fixed issues">
+      <created>1509391409977</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1509391409977</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Fixed issues">
+      <created>1509454717854</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1509454717854</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Fixed issues">
+      <created>1509482267625</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1509482267625</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Fixed issues">
+      <created>1509543827389</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1509543827389</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Users changed">
+      <created>1509810957658</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1509810957658</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Fixed issues">
+      <created>1509816700752</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1509816700752</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Forgot Password ,Verify Accout completed">
+      <created>1509892705664</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1509892705664</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Removed linkedin login">
+      <created>1510061184390</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1510061184390</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Login success handler added">
+      <created>1510064912551</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1510064912551</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Removed cookie">
+      <created>1510128323879</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1510128323879</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Linkedin added">
+      <created>1510149295298</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1510149295298</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Linkedin added">
+      <created>1510406070358</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1510406070358</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Linkedin added">
+      <created>1510407871770</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1510407871770</updated>
+    </task>
+    <task id="LOCAL-00018" summary="added customAuthenticationProvider for control login">
+      <created>1510654172043</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1510654172043</updated>
+    </task>
+    <task id="LOCAL-00019" summary="added Transactial">
+      <created>1510668553532</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1510668553532</updated>
+    </task>
+    <task id="LOCAL-00020" summary="code cleans">
+      <created>1510696028236</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1510696028236</updated>
+    </task>
+    <task id="LOCAL-00021" summary="code cleans">
+      <created>1510696885645</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1510696885645</updated>
+    </task>
+    <task id="LOCAL-00022" summary="code cleans">
+      <created>1510702004090</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1510702004090</updated>
+    </task>
+    <task id="LOCAL-00023" summary="code cleans">
+      <created>1510916056770</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1510916056770</updated>
+    </task>
+    <task id="LOCAL-00024" summary="code cleans">
+      <created>1511016186387</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1511016186387</updated>
+    </task>
+    <task id="LOCAL-00025" summary="- examsAnswers degisiklik yapildi.&#10;- examsStart adinda page olusturuldu.">
+      <created>1511127366357</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1511127366357</updated>
+    </task>
+    <task id="LOCAL-00026" summary="- examsController, style, examsStart degisiklik yapildi.">
+      <created>1511210899162</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1511210899162</updated>
+    </task>
+    <task id="LOCAL-00027" summary="- examsController, style, examsStart degisiklik yapildi.">
+      <created>1511388257337</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1511388257337</updated>
+    </task>
+    <task id="LOCAL-00028" summary="- examsController, style, examsStart degisiklik yapildi.">
+      <created>1511705859840</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1511705859840</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="425912000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="733" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35935396" sideWeight="0.5025707" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30205655" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969153" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24921875" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1452345" sideWeight="0.4974293" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32223904" sideWeight="0.4974293" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20272315" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32829046" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18359375" sideWeight="0.49361023" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969153" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32829046" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36204576" sideWeight="0.50771207" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30205655" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="combo" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32898173" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969153" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19399786" sideWeight="0.4922879" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3215434" sideWeight="0.4974293" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2521322" sideWeight="0.5063898" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27025586" sideWeight="0.49361023" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969153" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32839838" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36204576" sideWeight="0.50771207" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30205655" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32898173" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969153" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44818303" sideWeight="0.4922879" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32166892" sideWeight="0.4974293" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2521322" sideWeight="0.5063898" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27056554" sideWeight="0.49361023" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969153" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32839838" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="Users changed" />
+    <MESSAGE value="Fixed issues" />
+    <MESSAGE value="Forgot Password ,Verify Accout completed" />
+    <MESSAGE value="Removed linkedin login" />
+    <MESSAGE value="Login success handler added" />
+    <MESSAGE value="Removed cookie" />
+    <MESSAGE value="Linkedin added" />
+    <MESSAGE value="added customAuthenticationProvider for control login" />
+    <MESSAGE value="added Transactial" />
+    <MESSAGE value="code cleans" />
+    <MESSAGE value="- examsAnswers degisiklik yapildi.&#10;- examsStart adinda page olusturuldu." />
+    <MESSAGE value="- examsController, style, examsStart degisiklik yapildi." />
+    <option name="LAST_COMMIT_MESSAGE" value="- examsController, style, examsStart degisiklik yapildi." />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/services/src/main/java/com/amoraesdev/spaexample/services/Configuration/JpaConfiguration.java</url>
+          <line>97</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/codin-API/src/main/java/com/codin/Api/Services/CarService.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/codin-API/src/main/java/com/codin/Api/Services/UserService.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/codin-API/src/main/java/com/codin/Api/Services/UserService.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/codin-API/src/main/java/com/codin/Api/Library/DatabaseLibrary.java</url>
+          <line>75</line>
+          <properties />
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/codin-API/src/main/java/com/codin/Api/Library/DatabaseLibrary.java</url>
+          <line>197</line>
+          <properties />
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/codin-API/src/main/java/com/codin/Api/Repository/UsersRepository.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/codin-Oauth/src/main/java/com/codin/Oauth/Handler/AuthenticationLogoutSuccessHandler.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/codin-Oauth/src/main/java/com/codin/Oauth/Library/DatabaseLibrary.java</url>
+          <line>161</line>
+          <properties />
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/codin-Oauth/src/main/java/com/codin/Oauth/Repository/UsersRepository.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/codin-Oauth/src/main/java/com/codin/Oauth/Handler/AuthenticationLoginSuccessHandler.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/codin-Oauth/src/main/java/com/codin/Oauth/CustomAuthenticationProvider.java</url>
+          <line>76</line>
+          <properties />
+          <option name="timeStamp" value="254" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/codin-Oauth/src/main/java/com/codin/Oauth/Repository/UsersRepository.java</url>
+          <line>63</line>
+          <properties />
+          <option name="timeStamp" value="288" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/codin-Oauth/src/main/java/com/codin/Oauth/Library/CoreLibrary.java</url>
+          <line>64</line>
+          <properties />
+          <option name="timeStamp" value="289" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/codin-API/src/main/java/com/codin/Api/Controllers/UsersController.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="300" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="301" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/codin-Oauth/src/main/java/com/codin/Oauth/Web/LinkedInConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="26" column="31" lean-forward="true" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codin-API/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codin-Oauth/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="5" lean-forward="false" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.1.8.RELEASE/spring-core-4.1.8.RELEASE.jar!/org/springframework/cglib/proxy/MethodProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="105" column="0" lean-forward="false" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codin-Oauth/src/main/java/com/codin/Oauth/Library/DatabaseLibrary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="155" column="43" lean-forward="true" selection-start-line="155" selection-start-column="43" selection-end-line="155" selection-end-column="43" />
+          <folding>
+            <element signature="e#4189#4219#0" expanded="false" />
+            <element signature="e#4270#4271#0" expanded="false" />
+            <element signature="e#4328#4329#0" expanded="false" />
+            <element signature="method#select#1;class#DatabaseLibrary#0" expanded="false" />
+            <element signature="method#select#2;class#DatabaseLibrary#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codin-Oauth/src/main/java/com/codin/Oauth/Repository/ProfilesRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/3.2.7.RELEASE/spring-security-core-3.2.7.RELEASE.jar!/org/springframework/security/authentication/ProviderManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="89" column="0" lean-forward="false" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codin-Client/src/main/resources/static/Lib/img/defaultProfilePicture.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codin-Oauth/src/main/java/com/codin/Oauth/Library/CoreLibrary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="65" column="72" lean-forward="false" selection-start-line="65" selection-start-column="72" selection-end-line="65" selection-end-column="72" />
+          <folding>
+            <element signature="method#passwordEncoder#0;class#CoreLibrary#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codin-API/src/main/java/com/codin/Api/Controllers/GreetingController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codin-Oauth/src/main/java/com/codin/Oauth/Models/Logs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="48" column="47" lean-forward="false" selection-start-line="48" selection-start-column="47" selection-end-line="48" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.1.6.RELEASE/spring-aop-4.1.6.RELEASE.jar!/org/springframework/aop/framework/CglibAopProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="433" column="0" lean-forward="false" selection-start-line="433" selection-start-column="0" selection-end-line="433" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codin-Oauth/src/main/java/com/codin/Oauth/Repository/LogsRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codin-API/src/main/java/com/codin/Api/Controllers/ProfilesController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-50">
+          <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codin-Oauth/src/main/java/com/codin/Oauth/Models/LinkedInProfile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1088">
+          <caret line="107" column="0" lean-forward="false" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codin-Oauth/src/main/java/com/codin/Oauth/Controllers/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codin-API/src/main/java/com/codin/Api/Models/Country.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codin-Oauth/src/main/java/com/codin/Oauth/Repository/UsersRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="536">
+          <caret line="62" column="19" lean-forward="false" selection-start-line="62" selection-start-column="19" selection-end-line="62" selection-end-column="19" />
+          <folding>
+            <element signature="e#389#400#0" expanded="false" />
+            <element signature="method#findUserByEmail#0;class#UsersRepository#0" expanded="false" />
+            <element signature="method#findAtivationKeyByEmail#0;class#UsersRepository#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codin-API/src/main/java/com/codin/Api/Models/LinkedInProfile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="54" lean-forward="true" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codin-Oauth/src/main/java/com/codin/Oauth/Oauth/SecurityConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="36" column="24" lean-forward="false" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codin-Oauth/src/main/java/com/codin/Oauth/Oauth/OAuth2Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="29" column="41" lean-forward="false" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codin-Oauth/src/main/java/com/codin/Oauth/Controllers/LinkedInController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="91" column="27" lean-forward="false" selection-start-line="91" selection-start-column="27" selection-end-line="91" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/3.2.8.RELEASE/spring-security-web-3.2.8.RELEASE.jar!/org/springframework/security/web/RedirectStrategy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="12" column="9" lean-forward="false" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codin-Oauth/src/main/java/com/codin/Oauth/CustomAuthenticationProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="56" column="44" lean-forward="false" selection-start-line="56" selection-start-column="44" selection-end-line="56" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codin-Oauth/src/main/java/com/codin/Oauth/Handler/AuthenticationLoginSuccessHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codin-API/src/main/java/com/codin/Api/Repository/UsersRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1215">
+          <caret line="99" column="0" lean-forward="false" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codin-Client/src/main/resources/static/Controllers/adminController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="26" lean-forward="false" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codin-Client/src/main/resources/static/Controllers/dashboardController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codin-Client/src/main/resources/static/Controllers/mainController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="23" lean-forward="false" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codin-Client/src/main/resources/static/Controllers/navController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codin-Client/src/main/resources/static/Controllers/profileController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="75" lean-forward="true" selection-start-line="23" selection-start-column="75" selection-end-line="23" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codin-Client/src/main/resources/static/Services/APIService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="150" column="9" lean-forward="false" selection-start-line="150" selection-start-column="9" selection-end-line="150" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codin-Client/src/main/resources/static/Views/Modals/isFirstLogin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="6" lean-forward="true" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codin-Oauth/src/main/resources/static/css/bootstrap-social.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codin-Oauth/src/main/resources/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="38" lean-forward="false" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codin-API/src/main/java/com/codin/Api/Controllers/UsersController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="71" column="40" lean-forward="false" selection-start-line="71" selection-start-column="40" selection-end-line="71" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codin-Oauth/src/main/resources/static/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1788">
+          <caret line="378" column="34" lean-forward="false" selection-start-line="378" selection-start-column="34" selection-end-line="378" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codin-API/src/main/java/com/codin/Api/Models/ProfileSeenQuestions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="59" column="0" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+          <folding>
+            <element signature="e#767#768#0" expanded="true" />
+            <element signature="e#804#805#0" expanded="true" />
+            <element signature="e#862#863#0" expanded="true" />
+            <element signature="e#914#915#0" expanded="true" />
+            <element signature="e#949#950#0" expanded="true" />
+            <element signature="e#982#983#0" expanded="true" />
+            <element signature="e#1032#1033#0" expanded="true" />
+            <element signature="e#1076#1077#0" expanded="true" />
+            <element signature="e#1107#1108#0" expanded="true" />
+            <element signature="e#1136#1137#0" expanded="true" />
+            <element signature="e#1178#1179#0" expanded="true" />
+            <element signature="e#1214#1215#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codin-API/src/main/java/com/codin/Api/Repository/ProfilesRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="16" column="4" lean-forward="false" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codin-Client/src/main/resources/static/Lib/questionTest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9585">
+          <caret line="639" column="1" lean-forward="false" selection-start-line="639" selection-start-column="1" selection-end-line="639" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codin-Client/src/main/resources/static/Views/examsDetails.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codin-Client/src/main/resources/static/Views/examsContent.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-393">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codin-Client/src/main/resources/static/Views/Modals/examsAnswers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-307">
+          <caret line="3" column="24" lean-forward="false" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codin-Client/src/main/resources/static/Views/Modals/profileEdit.modal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codin-Client/src/main/resources/static/Views/profile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-179">
+          <caret line="16" column="77" lean-forward="false" selection-start-line="16" selection-start-column="77" selection-end-line="16" selection-end-column="77" />
+          <folding>
+            <marker date="1511461981000" expanded="true" signature="918:1236" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="970:1068" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="1164:1217" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="1326:1335" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="1397:13337" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="1496:4036" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="1529:4023" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="1563:1974" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="1580:1957" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="1638:1939" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="1730:1886" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="2010:2931" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="2063:2190" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="2225:2504" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="2539:2914" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="2618:2895" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="2684:2842" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="2982:3993" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="3035:3247" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="3190:3228" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="3282:3566" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="3601:3976" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="3680:3957" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="3746:3904" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="4137:5516" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="4170:5503" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="4204:4588" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="4221:4571" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="4278:4553" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="4344:4500" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="4624:5473" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="4677:4842" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="4785:4823" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="4877:5046" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="5081:5456" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="5160:5437" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="5226:5384" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="5613:7143" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="5646:7130" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="5680:6085" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="5697:6068" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="5775:6050" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="5841:5997" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="6113:7100" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="6149:7083" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="6186:6302" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="6207:6281" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="6213:6276" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="6339:6453" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="6360:6432" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="6490:6605" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="6511:6584" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="6517:6579" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="6642:6759" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="6663:6738" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="6669:6733" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="6796:6912" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="6817:6891" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="6823:6886" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="6949:7064" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="6970:7043" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="6976:7038" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="7246:10451" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="7279:10438" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="7313:7703" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="7330:7686" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="7393:7668" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="7459:7615" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="7731:8369" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="7777:7819" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="7855:7945" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="7980:8352" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="8059:8333" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="8125:8280" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="8412:9059" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="8458:8500" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="8536:8635" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="8670:9042" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="8749:9023" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="8815:8970" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="9102:9752" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="9148:9190" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="9226:9328" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="9363:9735" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="9442:9716" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="9508:9663" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="9795:10423" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="9841:9883" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="9919:9999" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="10034:10406" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="10113:10387" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="10179:10334" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="10524:13308" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="10564:12829" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="10597:12816" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="10701:10984" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="10780:10967" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="10879:10889" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="10896:10961" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="11071:11321" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="11147:11304" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="11246:11256" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="11402:11685" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="11481:11668" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="11580:11590" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="11597:11662" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="11768:12049" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="11846:12032" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="11945:11955" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="11962:12026" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="12131:12412" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="12209:12395" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="12308:12318" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="12325:12389" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="12493:12774" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="12571:12757" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="12670:12680" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="12687:12751" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="12869:13286" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="12902:13273" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="13005:13258" ph="..." />
+            <marker date="1511461981000" expanded="true" signature="13109:13241" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codin-Client/src/main/resources/static/Views/exams.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="22" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codin-Client/src/main/resources/static/Controllers/examsController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="2" column="54" lean-forward="false" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codin-Client/src/main/resources/static/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="108" lean-forward="false" selection-start-line="2" selection-start-column="108" selection-end-line="2" selection-end-column="108" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codin-Client/src/main/resources/static/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="98" lean-forward="false" selection-start-line="32" selection-start-column="98" selection-end-line="32" selection-end-column="98" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codin-Client/src/main/resources/static/Lib/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="530" column="7" lean-forward="false" selection-start-line="530" selection-start-column="7" selection-end-line="530" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codin-Client/src/main/resources/static/Views/examsStart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="21" column="50" lean-forward="true" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>angular-spring-example-auth:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>codin</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
+  </component>
+</project>

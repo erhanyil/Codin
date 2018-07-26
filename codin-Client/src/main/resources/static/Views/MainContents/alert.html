@@ -1,0 +1,10 @@
+<div class="row customAlert" ng-if="alertAll.length > 0">
+    <div class="col-sm-12 text-center">
+        <br>
+        <div class="alertAnimation alert alert-{{alertType}}" role="alert" ng-repeat="alert in alertAll">
+            <button type="button" class="close" ng-click="clearAlert()"><span aria-hidden="true">&times;</span></button>
+            <a ng-click="goAlertState()" ng-if="alertState != undefined" class="alert-link">{{alertMessage}}</a>
+            <p ng-if="alertState == undefined">{{alertMessage}}</p>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="codeApp">
+<head>
+  <meta charset="UTF-8"/>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CodeIn</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet"
+        href="https://cdn.rawgit.com/konpa/devicon/df6431e323547add1b4cf45992913f15286456d3/devicon.min.css">
+  <link rel="stylesheet" href="Lib/style.css">
+  <style>
+    [ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+      display: none !important;
+    }
+  </style>
+  <link href="https://fonts.googleapis.com/css?family=Strait" rel="stylesheet">
+  <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+  <![endif]-->
+  <!-- AngularJS-->
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+  <script src="https://unpkg.com/@uirouter/angularjs@1.0.10/release/angular-ui-router.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular-route.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular-resource.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/ngStorage/0.3.10/ngStorage.min.js"></script>
+  <script src="https://rawgit.com/angular-ui/bootstrap/gh-pages/ui-bootstrap-0.11.0.min.js"></script>
+  <script src="https://rawgit.com/angular-ui/bootstrap/gh-pages/ui-bootstrap-tpls-0.11.0.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular-animate.js"></script>
+
+</head>
+<body ng-controller="mainController" ng-cloak loading>
+<div class="all">
+  <div class="container">
+    <div ui-view="navbar"></div>
+      <div ui-view="alert"></div>
+    <div ui-view="content"></div>
+      <div ui-view="footer" ng-if="!examsStartStatus"></div>
+  </div>
+</div>
+<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<!-- MainContentsents-->
+<script src="App.js"></script>
+<script src="Services/Configs.js"></script>
+<script src="Services/Directives.js"></script>
+<script src="Services/AuthInterceptor.js"></script>
+<script src="Services/Resources.js"></script>
+<script src="Services/Services.js"></script>
+<script src="Controllers/mainController.js"></script>
+<script src="Controllers/navController.js"></script>
+<script src="Controllers/homeController.js"></script>
+<script src="Controllers/messagingController.js"></script>
+<script src="Controllers/settingsController.js"></script>
+<script src="Controllers/notificationsController.js"></script>
+<script src="Controllers/dashboardController.js"></script>
+<script src="Controllers/discoverController.js"></script>
+<script src="Controllers/profileController.js"></script>
+<script src="Controllers/examsController.js"></script>
+</body>
+</html>
